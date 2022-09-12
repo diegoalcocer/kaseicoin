@@ -92,9 +92,22 @@ Check the balance of the account that bought the tokens and the total supply of 
 ![](img/21.PNG)
 
 🎥
- Video showing the functionality:
+ Please check the video showing the functionality:
  
-[](img/RemixEthereumIDE.mp4)
+* img/RemixEthereumIDE.mp4
+
+Use OpenZeppelin to extend the functionality of the crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created
+
+![](img/23.PNG)
+
+When the goal is reached:
+
+![](img/24.PNG)
+![](img/25.PNG)
+
+To finalize the sale, isOpen must return false (isOpen comes from TimedCrowdsale and checks to see whether the close time has passed yet).
+
+![](img/26.PNG)
 
 ## License
 
