@@ -50,6 +50,7 @@ Deploy the contract (KaseiCoinCrowdSaleDeployer)
 
 ![](img/6.PNG)
 ![](img/7.PNG)
+
 ![](img/9.PNG)
 
 Get the `kasei_crowdsale_address` address to link it to the `KaseiCoinCrowdSale` contract
