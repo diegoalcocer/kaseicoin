@@ -97,7 +97,9 @@ Check the balance of the account that bought the tokens and the total supply of 
  
 * img/RemixEthereumIDE.mp4
 
-Use OpenZeppelin to extend the functionality of the crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created
+### OpenZeppelin
+
+Use `OpenZeppelin` to extend the functionality of the crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created
 
 ![](img/23.PNG)
 
